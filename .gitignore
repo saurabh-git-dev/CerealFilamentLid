@@ -1,0 +1,7 @@
+**/video/captions.json
+**/video/captions/*
+**/video/frames/*
+
+v2/test_hub
+
+**/__pycache__/
